@@ -20,12 +20,6 @@ we like brazillian steak houses and brazillian women
 
 umbreon.. just umbreon (it's the best pokemon)
 
-## Languages We'll Likely Use for hackathon
-
-- probably Javascript
-- node.js
-- fortran
-
 ## What we learned during this hackathon
 - Socket.io
 - making a game engine
@@ -35,6 +29,12 @@ umbreon.. just umbreon (it's the best pokemon)
 - Firebase
 
 ... so pretty much everything in the project.
+
+## Languages We'll Likely Use for hackathon
+
+- probably Javascript
+- node.js
+- fortran
 
 My dad is better than your dad
 
